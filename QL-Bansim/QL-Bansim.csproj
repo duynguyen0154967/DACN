@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7EFF6A0-D45A-4450-90B5-7A4C6880474A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QL_Bansim</RootNamespace>
+    <AssemblyName>QL-Bansim</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassConnection.cs" />
+    <Compile Include="ClassCTHD.cs" />
+    <Compile Include="frmdangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdangky.Designer.cs">
+      <DependentUpon>frmdangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdangnhap.Designer.cs">
+      <DependentUpon>frmdangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sim\Classhanghoa.cs" />
+    <Compile Include="HoaDon\ClassHoaDon.cs" />
+    <Compile Include="KhachHang\ClassKhachhang.cs" />
+    <Compile Include="NhanVien\ClassNhanVien.cs" />
+    <Compile Include="CTHD2\Classcthd2.cs" />
+    <Compile Include="CTHD2\cthd2conect.cs" />
+    <Compile Include="CTHD2\cthd2Ctrl.cs" />
+    <Compile Include="CTHD2\frmCTHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CTHD2\frmCTHD.Designer.cs">
+      <DependentUpon>frmCTHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CTHDconect.cs" />
+    <Compile Include="CTHDCtrl.cs" />
+    <Compile Include="Sim\frmhanghoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sim\frmhanghoa.Designer.cs">
+      <DependentUpon>frmhanghoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon\frmhoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon\frmhoadon.Designer.cs">
+      <DependentUpon>frmhoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien\frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain.Designer.cs">
+      <DependentUpon>frmmain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmkhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmkhachhang.Designer.cs">
+      <DependentUpon>frmkhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sim\hanghoaconect.cs" />
+    <Compile Include="Sim\hanghoaCtrl.cs" />
+    <Compile Include="HoaDon\HoaDonconect.cs" />
+    <Compile Include="HoaDon\HoaDonCtrl.cs" />
+    <Compile Include="KhachHang\Khachhangconect.cs" />
+    <Compile Include="KhachHang\KhachhangCtrl.cs" />
+    <Compile Include="NhanVien\NhanVienConnect.cs" />
+    <Compile Include="NhanVien\NhanVienCtrl.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CTHD2\frmCTHD.resx">
+      <DependentUpon>frmCTHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdangky.resx">
+      <DependentUpon>frmdangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdangnhap.resx">
+      <DependentUpon>frmdangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sim\frmhanghoa.resx">
+      <DependentUpon>frmhanghoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon\frmhoadon.resx">
+      <DependentUpon>frmhoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmain.resx">
+      <DependentUpon>frmmain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien\frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmkhachhang.resx">
+      <DependentUpon>frmkhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

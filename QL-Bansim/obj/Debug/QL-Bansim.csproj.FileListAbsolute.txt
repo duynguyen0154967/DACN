@@ -1,0 +1,44 @@
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.exe.config
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.exe
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.pdb
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmNhanVien.resources
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.exe
+c:\users\nguye\documents\visual studio 2015\Projects\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.pdb
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.exe.config
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.exe
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.pdb
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmNhanVien.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.Properties.Resources.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.exe
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.pdb
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.khachhang.frmkhachhang.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmhanghoa.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmmain.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmhoadon.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.CTHD2.frmCTHD.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmdangnhap.resources
+C:\Users\nguye\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmdangky.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.exe.config
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.exe
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.pdb
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.exe
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\bin\Debug\QL-Bansim.pdb
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.CTHD2.frmCTHD.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmdangky.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmdangnhap.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmhanghoa.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmhoadon.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmmain.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.frmNhanVien.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.khachhang.frmkhachhang.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL_Bansim.Properties.Resources.resources
+C:\Users\WIN7\Desktop\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csproj.GenerateResource.Cache
+C:\Users\WIN7\Downloads\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.csprojAssemblyReference.cache
+C:\Users\WIN7\Downloads\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.exe
+C:\Users\WIN7\Downloads\QL-Bansim\QL-Bansim\obj\Debug\QL-Bansim.pdb
